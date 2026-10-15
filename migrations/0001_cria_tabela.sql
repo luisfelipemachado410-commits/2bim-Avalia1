@@ -1,1 +1,1 @@
-CRIE TABELA notas
+CREATE TABLE notas (id INTEGER PRIMARY KEY, aluno TEXT);
